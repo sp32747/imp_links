@@ -1,0 +1,92 @@
+Architecture
+---------------
+
+
+Software Architecture & Design of Modern Large Scale Systems
+Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing.
+
+
+Rocking System Design
+Learn system design, from building blocks to complex architectures for interviews and real world projects
+
+System Design Interview Guide for Software Architecture
+Mastering High Level System Design Interview | Software Architecture case studies | Design patterns | Microservices
+
+
+
+
+LAMBDA
+-------
+Master AWS Lambda: Go Serverless with AWS
+AWS Lambda for Beginners - Learn AWS Lambda, Azure Functions, SAM & Serverless Framework
+
+
+Serverless using AWS Lambda for Java Developers
+Create Build and Deploy Serverless Applications with AWS Lambdas
+
+
+Rocking AWS Serverless - A Real World Guide
+Learn AWS Serverless Architecture, Lambda, API Gateway, DevOps, CI/CD, DynamoDB, SAM, Cloud9, Serverless Frameworks
+-------------------------------------
+
+******UNtouched
+
+Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]
+
+Data Science Career Guide - Interview Preparation
+
+Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4
+
+The Complete Self-Driving Car Course - Applied Deep Learning
+
+The Data Science Course: Complete Data Science Bootcamp
+Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
+
+Complete Time Series Analysis With Python
+Python Time Series: How To Use Data Science, Statistics & Machine Learning For Modelling Time Series Data in Python
+
+************
+covered some
+
+Deep Learning with TensorFlow 2.0
+
+
+Deep Learning A-Z™ 2023: Neural Networks, AI & ChatGPT Bonus
+
+NEW Purchase
+TensorFlow Developer Certificate in 2023: Zero to Mastery
+
+Complete Tensorflow 2 and Keras Deep Learning Bootcamp
+
+2023 Become AWS SageMaker ML Engineer in 30 Days + ChatGPT
+Build 30+ ML Projects in 30 Days in AWS, Master SageMaker JumpStart, Canvas, AutoPilot, DataWrangler, Lambda & S3
+
+
+AWS Certified Machine Learning Specialty MLS-C01 [2023]
+Hands on AWS ML SageMaker Course with Practice Test. Join Live Study Group Q&A!
+
+------------------------------------------------------------
+
+SPARK
+
+Apache Spark 3 - Spark Programming in Python for Beginners
+
+
+Apache Spark 3 - Beyond Basics and Cracking Job Interviews
+By Prashant Kumar Pandey and 1 other
+
+
+Taming Big Data with Apache Spark and Python - Hands On!
+
+
+Data Engineering using Databricks on AWS and Azure
+
+
+The Ultimate Hands-On Hadoop: Tame your Big Data!
+
+Spark and Python for Big Data with PySpark
+
+Learn how to use Spark with Python, including Spark Streaming, 
+Machine Learning, Spark 2.0 DataFrames and more!
+
+
