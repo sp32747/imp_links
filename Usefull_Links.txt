@@ -1,10 +1,64 @@
 NLP
----
-http://jalammar.github.io/illustrated-bert/
+====
+https://lena-voita.github.io/nlp_course.html
 
 https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
 
+
+
+
+
+
+Fine-Tuning
+===========
+https://github.com/venkatareddykonasani/Assorted/blob/main/Fine_tuning_HuggingFace.md
+
+
+
+Attention Mechanism
+===================
+http://jalammar.github.io/illustrated-bert/
+
+https://btcompneuro.substack.com/p/draft-attention-is-all-you-need-in
+
+
+https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
+
+
+
+Langchain
+=======
+https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
+
+https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview
+langgraph youtube
+https://www.youtube.com/watch?v=5h-JBkySK34&list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg
+
+https://www.rabbitmetrics.com/langchain-in-7-easy-steps/
+
+https://github.com/langchain-ai/langchain-academy
+
 https://python.langchain.com/docs/how_to/semantic-chunker/
+
+
+basics langgraph
+===============
+https://langchain-ai.github.io/langgraph/concepts/low_level/#state
+
+https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/
+
+https://github.com/langchain-ai/langgraph
+
+
+Responsible AI
+-------------------
+https://ai.google.dev/responsible#design
+
+LLM Testing
+-----------
+
+https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
+https://www.analyticsvidhya.com/blog/2024/03/quantitative-metrics-simplified-for-language-model-evaluation/
 
 
 Automating browser tools
@@ -38,9 +92,14 @@ RAGAS
 youtube
 --------
 
+josh stammer
+https://www.youtube.com/watch?v=EuBBz3bI-aA
+
 gen ai-
 
 transformer
+
+
 
 pytorch
 
