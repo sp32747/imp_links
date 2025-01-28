@@ -57,6 +57,8 @@ multi-agents
 
 https://langchain-ai.github.io/langgraph/concepts/multi_agent/
 
+https://langchain-ai.github.io/langgraph/how-tos/branching/
+
 Responsible AI
 -------------------
 https://ai.google.dev/responsible#design
