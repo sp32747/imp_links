@@ -4,9 +4,33 @@ https://lena-voita.github.io/nlp_course.html
 
 https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
 
+https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
+
+VAE
+----
+https://www.analyticsvidhya.com/blog/2023/07/an-overview-of-variational-autoencoders/
+
+GAN
+---
+https://www.analyticsvidhya.com/blog/2021/10/an-end-to-end-introduction-to-generative-adversarial-networksgans/
 
 
+Guard Rails
+-----------
+AI anytime
+https://www.youtube.com/watch?v=XKDcOi-rZ_I
 
+RAG
+====
+
+Hybrid serch
+============
+https://www.analyticsvidhya.com/blog/2024/12/contextual-rag-systems-with-hybrid-search-and-reranking/
+
+pandas
+=======
+Alex the analyst
+https://www.youtube.com/watch?v=VRmXto2YA2I&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE&index=4
 
 
 Fine-Tuning
@@ -54,6 +78,7 @@ https://langchain-ai.github.io/langgraph/tutorials/
 
 multi-agents
 ============
+https://www.anthropic.com/research/building-effective-agents
 
 https://langchain-ai.github.io/langgraph/concepts/multi_agent/
 
@@ -94,12 +119,18 @@ https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/supervised-and-unsupervised-learning
 
 
+Bagging/Boosting
+================
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+
 RAGAS
 -----
-
+satyajeet pattanaik
+https://www.youtube.com/watch?v=J3M95E0LQl8
 
 youtube
 --------
+code emporium
 
 josh stammer
 https://www.youtube.com/watch?v=EuBBz3bI-aA
@@ -107,12 +138,16 @@ https://www.youtube.com/watch?v=EuBBz3bI-aA
 gen ai-
 
 transformer
-
+Code Emporium
+https://www.youtube.com/watch?v=HQn1QKQYXVg
 
 
 pytorch
 
 
+chunk vizualization
+===================
+https://chunkviz.up.railway.app/#explanation
 
 
 Architecture
@@ -136,3 +171,12 @@ https://aws.amazon.com/blogs/industries/elevating-customer-experience-with-gener
 
 
 https://lenovopress.lenovo.com/lp1798-reference-architecture-for-generative-ai-based-on-large-language-models
+
+
+https://www.xenonstack.com/blog/use-of-generative-ai-to-detect-and-fix-data-anomalies
+
+
+
+EVENT DRIVEN ARCHI
+==================
+https://dev.to/distinction-dev/event-driven-architecture-overview-and-comparison-of-aws-messaging-service-18lb
