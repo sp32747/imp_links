@@ -6,12 +6,24 @@ https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials
 
 https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
 
-VAE
+
 ----
+digital sreeni
+--------------
+
+https://www.youtube.com/@DigitalSreeni
+https://www.youtube.com/watch?v=q_tpFGHiRgg
+
+
+VAE
+=======
+https://www.youtube.com/@DigitalSreeni
 https://www.analyticsvidhya.com/blog/2023/07/an-overview-of-variational-autoencoders/
 
 GAN
 ---
+https://www.youtube.com/@DigitalSreeni
+
 https://www.analyticsvidhya.com/blog/2021/10/an-end-to-end-introduction-to-generative-adversarial-networksgans/
 
 
@@ -20,8 +32,21 @@ Guard Rails
 AI anytime
 https://www.youtube.com/watch?v=XKDcOi-rZ_I
 
+Loss Function in deep learning
+=====================
+https://www.analyticsvidhya.com/blog/2022/06/understanding-loss-function-in-deep-learning/
+
+
+
 RAG
 ====
+
+
+https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/classification.ipynb
+
+https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
+
+https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
 
 Hybrid serch
 ============
@@ -37,7 +62,17 @@ Fine-Tuning
 ===========
 https://github.com/venkatareddykonasani/Assorted/blob/main/Fine_tuning_HuggingFace.md
 
+Anamoly Detection
+---------------------
+https://www.geeksforgeeks.org/anomaly-detection-with-tensorflow/?ref=ml_lbp
 
+https://www.youtube.com/@datasciencewithmarco
+===========================================
+https://www.youtube.com/watch?v=qy41dXGbAxY&t=53s
+
+using isolation forest
+krish naik
+https://www.youtube.com/watch?v=OS9xRGKfx4E
 
 Attention Mechanism
 ===================
@@ -48,7 +83,13 @@ https://btcompneuro.substack.com/p/draft-attention-is-all-you-need-in
 
 https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
 
+Crew AI
+--------
+https://www.youtube.com/watch?v=ONKOXwucLvE&t=0s
 
+n8n Agent
+---------
+https://www.youtube.com/watch?v=AURnISajubk&t=282s
 
 Langchain
 =======
@@ -76,13 +117,17 @@ https://github.com/langchain-ai/langgraph
 
 https://langchain-ai.github.io/langgraph/tutorials/
 
-multi-agents
+multi-agents 
 ============
 https://www.anthropic.com/research/building-effective-agents
 
 https://langchain-ai.github.io/langgraph/concepts/multi_agent/
 
 https://langchain-ai.github.io/langgraph/how-tos/branching/
+
+lang graph github
+=================
+https://github.com/langchain-ai/langgraph-supervisor-py
 
 Responsible AI
 -------------------
