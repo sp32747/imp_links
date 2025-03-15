@@ -36,7 +36,10 @@ Loss Function in deep learning
 =====================
 https://www.analyticsvidhya.com/blog/2022/06/understanding-loss-function-in-deep-learning/
 
-
+Agentic AI IN AWS
+==================
+https://www.youtube.com/@SimplilearnOfficial
+https://www.youtube.com/watch?v=UsXj9lzpBJA
 
 RAG
 ====
@@ -58,9 +61,25 @@ Alex the analyst
 https://www.youtube.com/watch?v=VRmXto2YA2I&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE&index=4
 
 
-Fine-Tuning
+Fine Tuning Lora 
 ===========
-https://github.com/venkatareddykonasani/Assorted/blob/main/Fine_tuning_HuggingFace.md
+lora @codeemporium
+https://www.youtube.com/watch?v=Bq9zqTJDsjg
+
+
+@samwitteveenai
+https://www.youtube.com/watch?v=Us5ZFp16PaU&t=12s
+
+quantization
+============
+code basics 
+https://www.youtube.com/watch?v=v1oHf1KV6kM&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=50
+
+
+
+https://www.youtube.com/@chrisalexiuk
+https://www.youtube.com/watch?v=iYr1xZn26R8
+
 
 Anamoly Detection
 ---------------------
@@ -173,9 +192,7 @@ RAGAS
 satyajeet pattanaik
 https://www.youtube.com/watch?v=J3M95E0LQl8
 
-youtube
---------
-code emporium
+
 
 josh stammer
 https://www.youtube.com/watch?v=EuBBz3bI-aA
@@ -183,6 +200,7 @@ https://www.youtube.com/watch?v=EuBBz3bI-aA
 gen ai-
 
 transformer
+---------------
 Code Emporium
 https://www.youtube.com/watch?v=HQn1QKQYXVg
 
@@ -222,6 +240,45 @@ https://www.xenonstack.com/blog/use-of-generative-ai-to-detect-and-fix-data-anom
 
 
 
+AI AGENTS IN MICROSERVICE
+=============================
+https://vectorize.io/microagents-building-better-ai-agents-with-microservices/
+
 EVENT DRIVEN ARCHI
 ==================
 https://dev.to/distinction-dev/event-driven-architecture-overview-and-comparison-of-aws-messaging-service-18lb
+
+
+Chunking Strartergies
+----------------------
+https://www.analyticsvidhya.com/blog/2025/02/types-of-chunking-for-rag-systems/
+
+
+AWS Glue
+=======
+https://www.youtube.com/@JohnnyChivers
+https://www.youtube.com/watch?v=ZvJSaioPYyo&list=PL8JO6Q_xfjelngLxyJ9uG3JTOIcJEFWdo&index=18
+
+
+Data Pipeline Architecture
+-----------------------------
+https://aws.amazon.com/blogs/big-data/aws-serverless-data-analytics-pipeline-reference-architecture/
+
+
+LASSO , RIDGE ,ELASTIC NET
+-------------------------------
+
+
+https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
+
+
+new channel
+------------
+https://www.youtube.com/@JonKrohnLearns/playlists
+https://www.youtube.com/@JonKrohnLearns/playlists
+
+
+
+AGENTIC AI Architecture
+---------------------
+https://vectorize.io/category/ai-agents/
