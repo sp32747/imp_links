@@ -41,9 +41,22 @@ Agentic AI IN AWS
 https://www.youtube.com/@SimplilearnOfficial
 https://www.youtube.com/watch?v=UsXj9lzpBJA
 
-RAG
-====
+Multimodal RAG
+================
+Pdf Parsing with Scanned Images, Tables, Text with Docling, Claude
+https://www.youtube.com/watch?v=26thuRsxiUc
 
+https://www.youtube.com/watch?v=-77EvEjuZJY
+
+https://github.com/genieincodebottle/parsemypdf/blob/main/pdf-parsing-guide.pdf
+
+Multi-modal RAG: Chat with Docs containing Images
+https://www.youtube.com/watch?v=Rg35oYuus-w&t=57s
+
+https://docs.unstructured.io/open-source/core-functionality/partitioning#partition-pdf
+
+ RAG
+====
 
 https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/classification.ipynb
 
@@ -282,3 +295,53 @@ https://www.youtube.com/@JonKrohnLearns/playlists
 AGENTIC AI Architecture
 ---------------------
 https://vectorize.io/category/ai-agents/
+
+
+AGENTIC RAG
+=============
+
+Code Commander
+https://www.youtube.com/watch?v=zeODzrGHtXY
+
+
+
+AIAnytime
+https://www.youtube.com/watch?v=GtyiAd55XN0
+
+
+Text sentiment classification using Machine learnig
+=====================================================
+https://www.analyticsvidhya.com/blog/2021/12/text-classification-of-news-articles/
+
+@howardjeremyp
+
+https://www.youtube.com/watch?v=jkrNMKz9pWU&t=65s
+
+
+
+AWS
+=====
+https://www.youtube.com/@FelixYu
+
+
+System Design
+=============
+https://www.youtube.com/@AsliEngineering 
+
+AWS Bedrock
+------------
+@GoForthandCloud
+https://www.youtube.com/watch?v=YlMV6OE0UFA
+
+
+https://www.youtube.com/watch?v=jyzcTRWeogU&list=PL83Pj2DplX3Bu9xaS396ZSXpnc9hkcKw_&index=7
+
+Autonomous car
+==============
+https://www.youtube.com/@dswithbappy
+
+
+Industrial IOT and predictive maintance using kafka and lots of use cases
+--------------------------------------------------------------------------
+@kai-waehner
+https://www.youtube.com/watch?v=YlMV6OE0UFA
