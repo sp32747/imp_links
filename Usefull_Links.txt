@@ -1,3 +1,12 @@
+CNN
+----
+Deep Learning A-Z
+to vizualize convolution
+https://adamharley.com/nn_vis/cnn/2d.html
+
+
+
+
 NLP
 ====
 https://lena-voita.github.io/nlp_course.html
@@ -64,6 +73,9 @@ https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials
 
 https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
 
+statusgrid
+https://www.youtube.com/watch?v=YlMV6OE0UFA
+
 Hybrid serch
 ============
 https://www.analyticsvidhya.com/blog/2024/12/contextual-rag-systems-with-hybrid-search-and-reranking/
@@ -106,14 +118,19 @@ using isolation forest
 krish naik
 https://www.youtube.com/watch?v=OS9xRGKfx4E
 
-Attention Mechanism
+Attention Mechanism (Transformers Architecture)
 ===================
+https://www.youtube.com/watch?v=QwfuoNhjbkI&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=5
+
 http://jalammar.github.io/illustrated-bert/
 
 https://btcompneuro.substack.com/p/draft-attention-is-all-you-need-in
 
 
+
 https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
+
+https://poloclub.github.io/transformer-explainer/
 
 Crew AI
 --------
@@ -217,6 +234,9 @@ transformer
 Code Emporium
 https://www.youtube.com/watch?v=HQn1QKQYXVg
 
+@umarjamilai
+https://www.youtube.com/watch?v=bCz4OMemCcA
+
 
 pytorch
 
@@ -315,12 +335,7 @@ https://www.analyticsvidhya.com/blog/2021/12/text-classification-of-news-article
 
 @howardjeremyp
 
-https://www.youtube.com/watch?v=jkrNMKz9pWU&t=65s
-
-
-
-AWS
-=====
+https://www.youtube.com/watch?v=jkrNMKz9pWU&t=65s 
 https://www.youtube.com/@FelixYu
 
 
@@ -330,8 +345,17 @@ https://www.youtube.com/@AsliEngineering
 
 AWS Bedrock
 ------------
+https://aws.amazon.com/blogs/industries/elevating-customer-experience-with-generative-ai-and-telecom-apis-using-agents-for-amazon-bedrock/
+
+https://www.youtube.com/watch?v=YlMV6OE0UFA
+
+
 @GoForthandCloud
 https://www.youtube.com/watch?v=YlMV6OE0UFA
+
+@trisalrahul
+https://www.youtube.com/watch?v=HI80O8fizPg&list=PLPed21Gk4a840h-EIxOylvEkoHr_JJBuF&index=3
+
 
 
 https://www.youtube.com/watch?v=jyzcTRWeogU&list=PL83Pj2DplX3Bu9xaS396ZSXpnc9hkcKw_&index=7
@@ -344,4 +368,79 @@ https://www.youtube.com/@dswithbappy
 Industrial IOT and predictive maintance using kafka and lots of use cases
 --------------------------------------------------------------------------
 @kai-waehner
-https://www.youtube.com/watch?v=YlMV6OE0UFA
+
+https://www.youtube.com/watch?v=tfOuN5KeI9w
+
+
+
+Deploying ML models 
+-------------------
+using docker aws fargate ,aws ecs 
+
+https://www.youtube.com/watch?v=pJ_nCklQ65w
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model.html
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/large-model-inference-container-docs.html
+https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/
+
+onnx
+----
+https://www.techtarget.com/searchcloudcomputing/tip/Deploy-ML-on-edge-devices-with-SageMaker-IoT-Greengrass
+
+https://www.youtube.com/watch?v=I5EIEKmHvzg&t=15s
+
+CREWAI
+======
+@aiwithbrandon
+https://www.youtube.com/watch?v=sPzc6hMg7So&list=PLM6tkkgNqn-PbOaL05eQpP7cyWB47TjLA
+
+
+
+onfusion matrix
+--------------------
+https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall
+
+
+
+
+React>JS
+-----
+
+https://www.youtube.com/watch?v=YliznSTuMnw&list=PLGRDMO4rOGcP7g6vOaLhS7WxVV9ypao08
+
+http://github.com/RameshMF/spring-boot-tutorial/tree/master/springboot-crud-hibernate-example
+
+https://www.javaguides.net/2020/04/spring-boot-h2-jpa-hibernate-restful-crud-api-tutorial.html#google_vignette
+
+
+https://www.youtube.com/watch?v=3jjxRz_egNY&list=PL7Oro2kvkIzK9X9ctS7bK3VVq0zsEYQsR
+
+==================
+precision=Precision is a metric that measures how often a machine learning model correctly predicts the positive class. You can calculate precision by dividing the number of correct positive predictions (true positives) by the total number of instances the model predicted as positive (both true and false positives).
+
+precision =  TP
+		   ------
+		    TP+FP
+
+Recall is a metric that measures how often a machine learning model correctly identifies positive instances (true positives) from all the actual positive samples in the dataset. You can calculate recall by dividing the number of true positives by the number of positive instances. The latter includes true positives (successfully identified cases) and false negative results (missed cases).
+
+recall = TP
+		-----
+		TP+FN
+		
+F1 SCORE= 2 * Precision*Recall
+			--------------------
+			precision+recall
+
+
+
+RAG based solution
+Compliance Checks: Retrieve the customs regulations and procedures of the 
+destination country to check whether the paperwork is compliant.
+
+Customer Preferences: Retrieve the history of past shipments by the 
+same customer to identify preferences and offer them as default choices.
+
+Risk Alerts: Retrieve the latest updates about the Weather from 
+reliable news outlets to alert about potential risks of delays.
