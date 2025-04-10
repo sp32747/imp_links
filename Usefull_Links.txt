@@ -166,6 +166,8 @@ https://github.com/langchain-ai/langgraph
 
 https://langchain-ai.github.io/langgraph/tutorials/
 
+https://www.youtube.com/@harish_neel
+
 multi-agents 
 ============
 https://www.anthropic.com/research/building-effective-agents
@@ -386,6 +388,10 @@ https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-ll
 
 onnx
 ----
+@dswithbappy
+https://www.youtube.com/watch?v=YoMYOS3cHSU&list=PLkz_y24mlSJZJx9sQJCyFZt50S4ji1PeR&index=8
+
+
 https://www.techtarget.com/searchcloudcomputing/tip/Deploy-ML-on-edge-devices-with-SageMaker-IoT-Greengrass
 
 https://www.youtube.com/watch?v=I5EIEKmHvzg&t=15s
@@ -401,7 +407,17 @@ onfusion matrix
 --------------------
 https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall
 
+PYSPARK
+-------
 
+learnbydoingit
+https://www.youtube.com/watch?v=1J7qZ5SNGaQ
+
+
+
+End to End Azure Data Engineering Project by Sumit Sir
+---------------------------------------------------------
+https://www.youtube.com/watch?v=d3Vw3VtKDnc&t=1134s
 
 
 React>JS
