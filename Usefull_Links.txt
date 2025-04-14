@@ -106,6 +106,10 @@ https://www.youtube.com/@chrisalexiuk
 https://www.youtube.com/watch?v=iYr1xZn26R8
 
 
+AWS Bedrock Agent | Create a basic agent (Rajib DEb)
+============================================
+https://www.youtube.com/watch?v=TDmwfylH2OA&list=PL1eVNGcrHFPfPhu4qFU5rx8OZhFa1INAU&index=1
+
 Anamoly Detection
 ---------------------
 https://www.geeksforgeeks.org/anomaly-detection-with-tensorflow/?ref=ml_lbp
@@ -120,12 +124,14 @@ https://www.youtube.com/watch?v=OS9xRGKfx4E
 
 Attention Mechanism (Transformers Architecture)
 ===================
+https://www.youtube.com/@CodeEmporium
 https://www.youtube.com/watch?v=QwfuoNhjbkI&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=5
 
 http://jalammar.github.io/illustrated-bert/
 
 https://btcompneuro.substack.com/p/draft-attention-is-all-you-need-in
 
+https://www.youtube.com/watch?v=t45S_MwAcOw&list=PLIivdWyY5sqIlLF9JHbyiqzZbib9pFt4x&index=4
 
 
 https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
@@ -155,6 +161,10 @@ https://github.com/langchain-ai/langchain-academy
 https://python.langchain.com/docs/how_to/semantic-chunker/
 
 
+
+
+
+
 basics langgraph
 ===============
 https://langchain-ai.github.io/langgraph/concepts/low_level/#state
@@ -162,6 +172,10 @@ https://langchain-ai.github.io/langgraph/concepts/low_level/#state
 https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/
 
 https://github.com/langchain-ai/langgraph
+
+krish
+https://www.youtube.com/watch?v=vVGXPRjtAJE
+
 
 
 https://langchain-ai.github.io/langgraph/tutorials/
@@ -183,6 +197,8 @@ https://github.com/langchain-ai/langgraph-supervisor-py
 Responsible AI
 -------------------
 https://ai.google.dev/responsible#design
+
+https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2
 
 LLM Testing
 -----------
@@ -367,13 +383,33 @@ Autonomous car
 https://www.youtube.com/@dswithbappy
 
 
-Industrial IOT and predictive maintance using kafka and lots of use cases
+EXPLAINABALE AI (XAI)
+---------------
+two types of XAI
+ a)Model Agnostic XAI
+	LIME,SHAP
+	
+ b)Model specific XAI
+	Algo specific
+@nfolddatascience
+https://www.youtube.com/watch?v=chjB-agAgPE
+https://www.youtube.com/watch?v=RlghyhIPXJY
+https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-machine-learning-models
+
+
+Industrial IOT and predictive maintance using kafka,mqtt and lots of use cases
 --------------------------------------------------------------------------
+@HiveMQ
+https://www.youtube.com/watch?v=kfmuNGmbqn0&list=PLRkdoPznE1ENbcc-z9cwtDsixYwTlWJDK&index=2
+
+https://www.tpointtech.com/apache-kafka-consumer-and-consumer-groups
+
 @kai-waehner
 
 https://www.youtube.com/watch?v=tfOuN5KeI9w
 
-
+@CodeWithYu
+https://www.youtube.com/watch?v=Vv_fvwF41_0&t=4754s
 
 Deploying ML models 
 -------------------
@@ -401,6 +437,10 @@ CREWAI
 @aiwithbrandon
 https://www.youtube.com/watch?v=sPzc6hMg7So&list=PLM6tkkgNqn-PbOaL05eQpP7cyWB47TjLA
 
+MCP (MOdel context protocol)
+================
+Analytics vIdya
+https://www.youtube.com/watch?v=LYfr7qusVSs
 
 
 onfusion matrix
@@ -460,3 +500,5 @@ same customer to identify preferences and offer them as default choices.
 
 Risk Alerts: Retrieve the latest updates about the Weather from 
 reliable news outlets to alert about potential risks of delays.
+
+
