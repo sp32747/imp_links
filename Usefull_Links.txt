@@ -387,7 +387,8 @@ EXPLAINABALE AI (XAI)
 ---------------
 two types of XAI
  a)Model Agnostic XAI
-	LIME,SHAP
+	LIME (https://lime-ml.readthedocs.io/en/latest/)
+	SHAP (https://shap.readthedocs.io/en/latest/)
 	
  b)Model specific XAI
 	Algo specific
