@@ -1,3 +1,12 @@
+Vizualize things
+----------------
+to vizualize convolution
+https://adamharley.com/nn_vis/cnn/2d.html
+
+vizualize tensorflow
+https://playground.tensorflow.org/
+
+
 CNN
 ----
 Deep Learning A-Z
@@ -67,6 +76,11 @@ https://docs.unstructured.io/open-source/core-functionality/partitioning#partiti
  RAG
 ====
 
+@NeuralHackswithVasanth
+https://www.youtube.com/watch?v=PskoLFEh2WQ
+
+
+
 https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/classification.ipynb
 
 https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
@@ -91,6 +105,8 @@ Fine Tuning Lora
 lora @codeemporium
 https://www.youtube.com/watch?v=Bq9zqTJDsjg
 
+@1littlecoder
+https://www.youtube.com/watch?v=NRVaRXDoI3g
 
 @samwitteveenai
 https://www.youtube.com/watch?v=Us5ZFp16PaU&t=12s
@@ -102,7 +118,7 @@ https://www.youtube.com/watch?v=v1oHf1KV6kM&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3B
 
 
 
-https://www.youtube.com/@chrisalexiuk
+@chrisalexiuk
 https://www.youtube.com/watch?v=iYr1xZn26R8
 
 
@@ -111,11 +127,11 @@ AWS Bedrock Agent | Create a basic agent (Rajib DEb)
 https://www.youtube.com/watch?v=TDmwfylH2OA&list=PL1eVNGcrHFPfPhu4qFU5rx8OZhFa1INAU&index=1
 
 Anamoly Detection
----------------------
+===========================================
 https://www.geeksforgeeks.org/anomaly-detection-with-tensorflow/?ref=ml_lbp
 
 https://www.youtube.com/@datasciencewithmarco
-===========================================
+
 https://www.youtube.com/watch?v=qy41dXGbAxY&t=53s
 
 using isolation forest
@@ -148,7 +164,7 @@ https://www.youtube.com/watch?v=AURnISajubk&t=282s
 
 Langchain
 =======
-https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
+
 
 https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview
 langgraph youtube
@@ -179,6 +195,8 @@ https://www.youtube.com/watch?v=vVGXPRjtAJE
 
 
 https://langchain-ai.github.io/langgraph/tutorials/
+
+https://www.youtube.com/@KeertiPurswani
 
 https://www.youtube.com/@harish_neel
 
@@ -230,6 +248,8 @@ ML/DL
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/supervised-and-unsupervised-learning
 
+data bricks llm
+https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
 
 Bagging/Boosting
 ================
@@ -289,7 +309,10 @@ https://lenovopress.lenovo.com/lp1798-reference-architecture-for-generative-ai-b
 
 https://www.xenonstack.com/blog/use-of-generative-ai-to-detect-and-fix-data-anomalies
 
+AWS STEP FUNCTION USECASES
+==========================
 
+https://docs.aws.amazon.com/step-functions/latest/dg/use-cases.html
 
 AI AGENTS IN MICROSERVICE
 =============================
@@ -367,6 +390,8 @@ https://aws.amazon.com/blogs/industries/elevating-customer-experience-with-gener
 
 https://www.youtube.com/watch?v=YlMV6OE0UFA
 
+@FelixYu
+https://www.youtube.com/watch?v=dhqD20-Yb_s
 
 @GoForthandCloud
 https://www.youtube.com/watch?v=YlMV6OE0UFA
@@ -378,9 +403,18 @@ https://www.youtube.com/watch?v=HI80O8fizPg&list=PLPed21Gk4a840h-EIxOylvEkoHr_JJ
 
 https://www.youtube.com/watch?v=jyzcTRWeogU&list=PL83Pj2DplX3Bu9xaS396ZSXpnc9hkcKw_&index=7
 
-Autonomous car
+Autonomous car (both are sameauthors)
 ==============
+@dswithbappy
+@CodeCommander-d6t
 https://www.youtube.com/@dswithbappy
+
+MLOPS
+-----
+
+@CodeCommander-d6t
+https://www.youtube.com/watch?v=NLDS_w08yKM&list=PLilZ1IiRt0R1tOTVo9L_xwxuicIdvNXnY
+
 
 
 EXPLAINABALE AI (XAI)
@@ -389,17 +423,37 @@ two types of XAI
  a)Model Agnostic XAI
 	LIME (https://lime-ml.readthedocs.io/en/latest/)
 	SHAP (https://shap.readthedocs.io/en/latest/)
-	
+	PDP	(partilal dependency plot)
  b)Model specific XAI
 	Algo specific
-@nfolddatascience
+
+https://christophm.github.io/interpretable-ml-book/
+
+https://github.com/shap/shap
+
+https://interpret.ml/docs/
+
+https://github.com/jphall663/awesome-machine-learning-interpretability
+
+@unfolddatascience
 https://www.youtube.com/watch?v=chjB-agAgPE
+
 https://www.youtube.com/watch?v=RlghyhIPXJY
+
+@deepFindr
+https://www.youtube.com/watch?v=OZJ1IgSgP9E&list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU&index=2
+
+@Jovian
+https://www.youtube.com/watch?v=vNup3PygoWI&t=1829s
+
 https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-machine-learning-models
+
+https://www.kaggle.com/code/parulpandey/intrepreting-machine-learning-models
+
 
 
 Industrial IOT and predictive maintance using kafka,mqtt and lots of use cases
---------------------------------------------------------------------------
+================================================================================
 @HiveMQ
 https://www.youtube.com/watch?v=kfmuNGmbqn0&list=PLRkdoPznE1ENbcc-z9cwtDsixYwTlWJDK&index=2
 
@@ -443,6 +497,9 @@ MCP (MOdel context protocol)
 Analytics vIdya
 https://www.youtube.com/watch?v=LYfr7qusVSs
 
+all info about mcp-use
+https://github.com/pietrozullo/mcp-use
+
 
 onfusion matrix
 --------------------
@@ -454,6 +511,17 @@ PYSPARK
 learnbydoingit
 https://www.youtube.com/watch?v=1J7qZ5SNGaQ
 
+JAVA_SPRINGBOOT_PROJ
+===============
+https://www.youtube.com/watch?v=7CMSmt6EKtk
+
+TimeSeries
+===========
+@techclasses0810
+https://www.youtube.com/watch?v=-tDK3tinctU&list=PLunlGNVWDAaadOxGTeoPK5SAc4sOx7Ss2&index=3
+
+@AiEngineering
+https://www.youtube.com/watch?v=GEytNZVjZNU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=3
 
 
 End to End Azure Data Engineering Project by Sumit Sir
@@ -474,13 +542,18 @@ https://www.javaguides.net/2020/04/spring-boot-h2-jpa-hibernate-restful-crud-api
 https://www.youtube.com/watch?v=3jjxRz_egNY&list=PL7Oro2kvkIzK9X9ctS7bK3VVq0zsEYQsR
 
 ==================
-precision=Precision is a metric that measures how often a machine learning model correctly predicts the positive class. You can calculate precision by dividing the number of correct positive predictions (true positives) by the total number of instances the model predicted as positive (both true and false positives).
+Precision is a metric that measures how often a machine learning model correctly predicts 
+the positive class. You can calculate precision by dividing the number of correct positive predictions (true positives) 
+by the total number of instances the model predicted as positive (both true and false positives).
 
 precision =  TP
 		   ------
 		    TP+FP
 
-Recall is a metric that measures how often a machine learning model correctly identifies positive instances (true positives) from all the actual positive samples in the dataset. You can calculate recall by dividing the number of true positives by the number of positive instances. The latter includes true positives (successfully identified cases) and false negative results (missed cases).
+Recall is a metric that measures how often a machine learning model correctly identifies 
+positive instances (true positives) from all the actual positive samples in the dataset. 
+You can calculate recall by dividing the number of true positives by the number of positive instances. 
+The latter includes true positives (successfully identified cases) and false negative results (missed cases).
 
 recall = TP
 		-----
@@ -503,3 +576,13 @@ Risk Alerts: Retrieve the latest updates about the Weather from
 reliable news outlets to alert about potential risks of delays.
 
 
+
+Jinu@1305
+
+
+
+
+System Design
+--------------
+
+https://www.youtube.com/watch?v=WZjSFNPS9Lo&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&index=9
