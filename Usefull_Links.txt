@@ -25,6 +25,11 @@ https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials
 https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
 
 
+Sentiment Analysis
+------------------
+https://www.youtube.com/watch?v=oWo9SNcyxlI
+
+
 ----
 digital sreeni
 --------------
@@ -117,6 +122,9 @@ code basics
 https://www.youtube.com/watch?v=v1oHf1KV6kM&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=50
 
 
+MOdel producton/inferencing
+-----------
+https://www.youtube.com/@juliensimonfr
 
 @chrisalexiuk
 https://www.youtube.com/watch?v=iYr1xZn26R8
@@ -150,9 +158,21 @@ https://btcompneuro.substack.com/p/draft-attention-is-all-you-need-in
 https://www.youtube.com/watch?v=t45S_MwAcOw&list=PLIivdWyY5sqIlLF9JHbyiqzZbib9pFt4x&index=4
 
 
-https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
+
 
 https://poloclub.github.io/transformer-explainer/
+
+@SebastianRaschka
+https://www.youtube.com/watch?v=A1eUVxscNq8
+
+
+
+
+databricks
+-----------
+https://www.youtube.com/watch?v=LGsQZS18m5A&t=935s
+
+
 
 Crew AI
 --------
@@ -415,7 +435,9 @@ MLOPS
 @CodeCommander-d6t
 https://www.youtube.com/watch?v=NLDS_w08yKM&list=PLilZ1IiRt0R1tOTVo9L_xwxuicIdvNXnY
 
+https://research.aimultiple.com/model-drift/
 
+https://research.aimultiple.com/mlops-tools/
 
 EXPLAINABALE AI (XAI)
 ---------------
@@ -500,8 +522,24 @@ https://www.youtube.com/watch?v=LYfr7qusVSs
 all info about mcp-use
 https://github.com/pietrozullo/mcp-use
 
+MCP Springboot
+@DailyCodeBuffer
+https://www.youtube.com/watch?v=7lSnisze4wU
 
-onfusion matrix
+
+https://www.youtube.com/watch?v=ik5-ukQPtyQ
+
+
+Agentic Microservices , Event Driven with MCP
+-------------------
+https://www.youtube.com/watch?v=FLpS7OfD5-s&t=8s
+
+https://www.youtube.com/watch?v=f3tWgpIZemg&list=PLf38f5LhQthc3niVHweHSh7GATnHumJDK
+
+@SridharKumarKannam
+https://www.youtube.com/watch?v=n9fpnxtAAHo
+
+confusion matrix
 --------------------
 https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall
 
@@ -523,10 +561,19 @@ https://www.youtube.com/watch?v=-tDK3tinctU&list=PLunlGNVWDAaadOxGTeoPK5SAc4sOx7
 @AiEngineering
 https://www.youtube.com/watch?v=GEytNZVjZNU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=3
 
+@techclasses0810
+https://www.youtube.com/watch?v=A3fowDMo8mM
 
 End to End Azure Data Engineering Project by Sumit Sir
 ---------------------------------------------------------
 https://www.youtube.com/watch?v=d3Vw3VtKDnc&t=1134s
+
+
+
+Joint,conditional and marginal Probability
+------------------------------------------
+@datamlistic
+https://www.youtube.com/watch?v=xu-HhF3SpbE
 
 
 React>JS
@@ -586,3 +633,7 @@ System Design
 --------------
 
 https://www.youtube.com/watch?v=WZjSFNPS9Lo&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&index=9
+
+Annova, t test , chi square test
+------------------------------------
+https://www.kaggle.com/code/pythonafroz/t-test-anova-chi-squared-f-test-z-test
