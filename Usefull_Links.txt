@@ -16,6 +16,27 @@ https://adamharley.com/nn_vis/cnn/2d.html
 
 
 
+Cyber Security for LLMS
+------------------------
+Red Teaming
+Red teaming is a form of adversarial testing where adversaries launch an attack on an AI system, in order to test post-trained models for a range of vulnerabilities (e.g., cybersecurity) and social harms as defined in the safety policies. Conducting such evaluation is a best practice and can be performed by internal teams with aligned expertise or through specialized third-parties.
+
+A common challenge is to define what aspect of the model to test through red-teaming. The following list outlines risks that can help you target your red-teaming exercise for security vulnerabilities. Test areas that are too loosely tested by your development or assessment evaluations, or where your model has proven to be less safe.
+
+OWASP
+open worldwide application security project
+
+@AppSecEngineer
+https://www.youtube.com/watch?v=mpvfEsyl-C8
+
+MITRE ATLAS Explained: ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems) 
+https://james-vu.com/blog/f/a-step-by-step-guide-to-using-mitre-atlas-for-llm-applications?blogcategory=PKI
+
+AI Security Threats + OpenAI vs. DeepSeek Case Study
+specifically designed for ai threat detection 
+
+https://www.youtube.com/watch?v=jjsvviI7XEE
+
 NLP
 ====
 https://lena-voita.github.io/nlp_course.html
@@ -29,6 +50,12 @@ Sentiment Analysis
 ------------------
 https://www.youtube.com/watch?v=oWo9SNcyxlI
 
+
+
+topic modelling
+---------------
+
+https://www.datacamp.com/tutorial/what-is-topic-modeling
 
 ----
 digital sreeni
@@ -124,10 +151,13 @@ https://www.youtube.com/watch?v=v1oHf1KV6kM&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3B
 
 MOdel producton/inferencing
 -----------
-https://www.youtube.com/@juliensimonfr
+@juliensimonfr
+https://www.youtube.com/watch?v=cl3MAhAr9-M&list=PLJgojBtbsuc3K0qHBIymVRfgHAi2Sge4H
 
 @chrisalexiuk
 https://www.youtube.com/watch?v=iYr1xZn26R8
+
+https://www.e2enetworks.com/blog/reducing-inference-times-on-llms-by-80
 
 
 AWS Bedrock Agent | Create a basic agent (Rajib DEb)
@@ -148,8 +178,11 @@ https://www.youtube.com/watch?v=OS9xRGKfx4E
 
 Attention Mechanism (Transformers Architecture)
 ===================
-https://www.youtube.com/@CodeEmporium
+@CodeEmporium
 https://www.youtube.com/watch?v=QwfuoNhjbkI&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4&index=5
+
+@underthehood444
+https://www.youtube.com/watch?v=mfnQTN9W4j8
 
 http://jalammar.github.io/illustrated-bert/
 
@@ -296,8 +329,17 @@ https://www.youtube.com/watch?v=HQn1QKQYXVg
 https://www.youtube.com/watch?v=bCz4OMemCcA
 
 
-pytorch
+pytorch model sharding
+----------------------
+https://www.youtube.com/watch?v=gXDsVcY8TXQ
 
+Slides: https://docs.google.com/presentation/...
+Pytorch DDP: https://pytorch.org/tutorials/interme... 
+Pytorch FSDP: https://pytorch.org/tutorials/interme...
+HuggingFace PEFT w/ FSDP: https://github.com/huggingface/peft/t...
+
+
+umarjamilai
 
 chunk vizualization
 ===================
@@ -371,7 +413,9 @@ new channel
 https://www.youtube.com/@JonKrohnLearns/playlists
 https://www.youtube.com/@JonKrohnLearns/playlists
 
-
+Langgraph-DeepAgents
+--------------------
+https://github.com/langchain-ai/deep-agents-from-scratch/blob/main/notebooks/0_create_agent.ipynb
 
 AGENTIC AI Architecture
 ---------------------
@@ -522,10 +566,12 @@ https://www.youtube.com/watch?v=LYfr7qusVSs
 all info about mcp-use
 https://github.com/pietrozullo/mcp-use
 
-MCP Springboot
+MCP Springboot AI (Spring AI)
 @DailyCodeBuffer
 https://www.youtube.com/watch?v=7lSnisze4wU
 
+@sohamkamanitech
+https://www.e2enetworks.com/blog/reducing-inference-times-on-llms-by-80
 
 https://www.youtube.com/watch?v=ik5-ukQPtyQ
 
@@ -555,6 +601,9 @@ https://www.youtube.com/watch?v=7CMSmt6EKtk
 
 TimeSeries
 ===========
+
+https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/
+
 @techclasses0810
 https://www.youtube.com/watch?v=-tDK3tinctU&list=PLunlGNVWDAaadOxGTeoPK5SAc4sOx7Ss2&index=3
 
@@ -588,12 +637,31 @@ https://www.javaguides.net/2020/04/spring-boot-h2-jpa-hibernate-restful-crud-api
 
 https://www.youtube.com/watch?v=3jjxRz_egNY&list=PL7Oro2kvkIzK9X9ctS7bK3VVq0zsEYQsR
 
+
+Stable diffusion models
+=======================
+https://huggingface.co/docs/diffusers/en/tutorials/basic_training
+
+
+Langgraph
+=========
+https://www.datacamp.com/tutorial/langgraph-agents
+
+
+Strong understanding of model evaluation metrics such as BLEU, ROUGE, perplexity, etc.
+==========================================================================================
+
+https://www.analyticsvidhya.com/blog/2024/03/quantitative-metrics-simplified-for-language-model-evaluation/
+
+
+  - Experience with adversarial testing, bias detection, and ethical compliance in AI systems.
+
 ==================
 Precision is a metric that measures how often a machine learning model correctly predicts 
 the positive class. You can calculate precision by dividing the number of correct positive predictions (true positives) 
 by the total number of instances the model predicted as positive (both true and false positives).
 
-precision =  TP
+precision = 	    TP
 		   ------
 		    TP+FP
 
@@ -602,7 +670,7 @@ positive instances (true positives) from all the actual positive samples in the 
 You can calculate recall by dividing the number of true positives by the number of positive instances. 
 The latter includes true positives (successfully identified cases) and false negative results (missed cases).
 
-recall = TP
+recall =         TP
 		-----
 		TP+FN
 		
@@ -610,7 +678,15 @@ F1 SCORE= 2 * Precision*Recall
 			--------------------
 			precision+recall
 
+Time Series
+==========
+https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/
 
+
+RAG Fusion
+--------
+sam witven
+https://www.youtube.com/watch?v=GchC5WxeXGc
 
 RAG based solution
 Compliance Checks: Retrieve the customs regulations and procedures of the 
@@ -622,11 +698,26 @@ same customer to identify preferences and offer them as default choices.
 Risk Alerts: Retrieve the latest updates about the Weather from 
 reliable news outlets to alert about potential risks of delays.
 
+Synthetic data generation using GAN
+====================================
+https://docs.sdv.dev/sdv/tutorials
+https://github.com/sdv-dev/SDV
 
+@next_phase
+https://www.youtube.com/watch?v=Ei0klF38CNs
+
+@unfolddatascience
+https://www.youtube.com/watch?v=wJuCnYkrYLA
+
+@datasciencebasics using langchain and LLM
+https://www.youtube.com/watch?v=hDTLt8UbWYg
 
 Jinu@1305
 
-
+Top P ,Top K Selection
+------------------------
+@bhattbhavesh91
+https://www.youtube.com/watch?v=_3DWwb96exY&t=236s
 
 
 System Design
@@ -637,3 +728,9 @@ https://www.youtube.com/watch?v=WZjSFNPS9Lo&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3E
 Annova, t test , chi square test
 ------------------------------------
 https://www.kaggle.com/code/pythonafroz/t-test-anova-chi-squared-f-test-z-test
+
+
+Machine learning, Generative Ai, Llm, Rag, Agent,  Data Science, 
+
+Machine learning, Generative Ai, Llm, Rag, Agent, Data Sc, Data Science, Pytorch, Tensorflow,python,langchain,langgraph,crewai,autogen, agentic ai
+

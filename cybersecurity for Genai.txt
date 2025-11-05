@@ -1,0 +1,39 @@
+Key Responsibilities:
+
+Perform adversarial testing on LLMs, CV, NLP, and GenAI systems.
+Simulate and document prompt injection, model evasion, data poisoning, model inversion, and training data leakage attacks.
+Lead red teaming on RAG pipelines, vector stores and embedding models.
+Evaluate AI safety measures such as guardrails, output filtering, toxicity detectors, and hallucination handling.
+Utilize and extend red teaming frameworks like Clade, MCP, Llama Guard, Prompt inject, etc
+Design AI threat models using tools such as MITRE ATLAS, OWASP Top 10 for LLMs, and internal abuse taxonomies.
+Collaborate with Blue Team, AppSec, and ML teams to improve model robustness.
+Contribute to AI security policy, responsible disclosure guidelines, and ethical testing documentation.
+Conduct full-scope red team operations, including adversary emulation and assumed breach scenarios.
+Perform offensive security assessments across web, Android, Active Directory, internal networks and infrastructure.
+Conduct Active Directory attacks, including Kerberoasting, DCSync, DCShadow, NTLM relay, and credential abuse.
+Simulate lateral movement, pivoting, and post-exploitation on Windows and Linux infrastructure.
+Execute cloud penetration tests on AWS, Azure, or GCP, focusing on IAM misconfigurations, privilege escalation, and insecure services.
+Required Skills & Experience:
+
+4+ years of experience in penetration testing, red teaming or offensive security.
+1+ years working with AI/ML or LLM-based systems.
+Deep familiarity with LLM architectures (e.g., GPT, Claude, Mistral, LLaMA) and pipelines (e.g., LangChain, Haystack, RAG-as-a-Service).
+Strong understanding of embedding models, vector databases (Pinecone, Weaviate, FAISS), and API-based model deployments.
+Experience with adversarial ML, secure inference, and data integrity in training pipelines.
+Experience with red team infrastructure and tooling such as Cobalt Strike, Mythic, Sliver, Covenant, and custom payload development.
+Proficient in scripting languages such as Python, PowerShell, Bash or Go.
+Preferred Certifications:
+
+Offensive Security Certified Professional (OSCP)
+CRTP or CRTO
+GIAC AI Security Essentials (AIGC/ML)
+MITRE ATT&CK Defender for AI (MAD-AI)
+AI Red Teaming Course – OpenAI/Google/Anthropic
+Frameworks, Tools & Libraries:
+
+OWASP Top 10 for LLMs
+MITRE ATLAS, Clade, MCP, AdvBox, Foolbox, Adversarial Robustness Toolbox (ART)
+LangChain, Haystack, RAG stack, LlamaIndex
+OpenAI Eval framework, Promptinject, RedTeaming AI
+Model Explainers: SHAP, LIME, TracIn
+Active Directory Pentest
