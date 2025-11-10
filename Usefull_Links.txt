@@ -16,6 +16,11 @@ https://adamharley.com/nn_vis/cnn/2d.html
 
 
 
+TikToken
+---------
+https://tiktokenizer.vercel.app/?model=cl100k_base
+
+
 Cyber Security for LLMS
 ------------------------
 Red Teaming
@@ -107,6 +112,13 @@ https://docs.unstructured.io/open-source/core-functionality/partitioning#partiti
 
  RAG
 ====
+rag-strartergies
+----------------
+https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies
+
+chunking strartergies
+---------------------
+https://www.firecrawl.dev/blog/best-chunking-strategies-rag-2025
 
 @NeuralHackswithVasanth
 https://www.youtube.com/watch?v=PskoLFEh2WQ
@@ -329,17 +341,24 @@ https://www.youtube.com/watch?v=HQn1QKQYXVg
 https://www.youtube.com/watch?v=bCz4OMemCcA
 
 
-pytorch model sharding
-----------------------
+model sharding , data parallelism
+----------------------------------
+parallelism in tensorflow
+https://www.youtube.com/watch?v=S1tN9a4Proc
+
+parallelism in pytorch
 https://www.youtube.com/watch?v=gXDsVcY8TXQ
 
-Slides: https://docs.google.com/presentation/...
-Pytorch DDP: https://pytorch.org/tutorials/interme... 
-Pytorch FSDP: https://pytorch.org/tutorials/interme...
-HuggingFace PEFT w/ FSDP: https://github.com/huggingface/peft/t...
+huggingface
+https://huggingface.co/transformers/v4.9.2/parallelism.html
 
 
 umarjamilai
+
+https://www.youtube.com/watch?v=toUSzwR0EV8
+
+
+
 
 chunk vizualization
 ===================
